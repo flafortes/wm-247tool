@@ -25,9 +25,9 @@ return array(
 		// uncomment the following to enable the Gii tool
 		'gii'=>array(
 			'class'=>'system.gii.GiiModule',
-			'password'=>'admin007*',
+			'password'=>'',
 			// If removed, Gii defaults to localhost only. Edit carefully to taste.
-			'ipFilters'=>array('79.169.195.187','41.215.223.162', '212.18.162.33', '87.103.10.32'),
+			'ipFilters'=>array(),
 		),
 	),
 
@@ -90,4 +90,5 @@ return array(
 		// this is used in contact page
 		'adminEmail'=>'webmaster@example.com',
 	),
+
 );
