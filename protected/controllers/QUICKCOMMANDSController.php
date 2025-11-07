@@ -195,7 +195,7 @@ class QUICKCOMMANDSController extends Controller
 				
 				        // Auth credentials for the SOAP request. 
 				        'login' => 'Administrator', 
-				        'password' => 'admin007*', 
+				        'password' => '*', 
 				
 	    				) 
 
